@@ -1,4 +1,5 @@
 # Demo DevOps App
+## Local Development
 
 A clean demo repository showing best practices for:
 - Git repository structure
@@ -9,5 +10,6 @@ A clean demo repository showing best practices for:
 - Node.js
 - Express
 - Docker
+- Git
 
 ## Project Structure
